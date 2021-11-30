@@ -2396,10 +2396,14 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
-			.image.fit img:hover{
-				height: 325px;
-				width: 425px;
+			/* .image.fit img:hover{
+				height: 275px;
+				width: 350px;
 			}
+			#mainproject img:hover{
+				height: 650px;
+				width: 750px;
+			} */
 
 /* List */
 
